@@ -1,0 +1,24 @@
+{
+  "name": "legaleagle_prodhacks_custodians",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ipr07nim/LegalEagle_prodhacks_custodians.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ipr07nim/LegalEagle_prodhacks_custodians/issues"
+  },
+  "homepage": "https://github.com/ipr07nim/LegalEagle_prodhacks_custodians#readme",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "jsforce": "^3.10.14"
+  }
+}
